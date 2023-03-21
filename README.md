@@ -11,5 +11,7 @@ signals from reader, ranker as well as the retriever to determine the answerabil
 question.
 
 [End-term Report](https://github.com/rdev12/Domain-Specific-Question-Answering-DevRev/blob/master/End-term%20Report.pdf)
+
 [Mid-term Report](https://github.com/rdev12/Domain-Specific-Question-Answering-DevRev/blob/master/Mid-term%20Report.pdf)
+
 [Presentation](https://github.com/rdev12/Domain-Specific-Question-Answering-DevRev/blob/master/Presentation.pdf)
