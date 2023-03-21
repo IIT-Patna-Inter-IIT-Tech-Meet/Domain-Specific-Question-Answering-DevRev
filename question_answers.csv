@@ -1,0 +1,945 @@
+question,theme,paragraph_id,answer
+Which company produces the iPod?,IPod,1,Apple
+When was the original iPod released?,IPod,1,"October 23, 2001"
+How many different types of iPod are currently available?,IPod,1,three
+What kind of device is the iPod?,IPod,1,portable media players
+The iPod Touch uses what kind of interface?,IPod,1,touchscreen
+What company manufactures the iPod?,IPod,1,Apple
+"In addition to playing music, what other function can the iPod perform?",IPod,2,data storage
+What is the smallest data capacity for an iPod product?,IPod,2,2 GB
+What is the largest data capacity for an iPod product?,IPod,2,128 GB
+Which iPod product features the smallest data storage capacity?,IPod,2,iPod Shuffle
+Which current iPod product features the largest data storage capacity?,IPod,2,iPod Touch
+What's the storage capacity of the iPod Shuffle?,IPod,2,2 GB
+What's the storage capacity for the iPod Touch?,IPod,2,128 GB
+What Apple program is used to communicate between computers and portable devices?,IPod,3,iTunes
+Which operating systems are compatible with iTunes?,IPod,3,Apple Macintosh and Microsoft Windows
+What's the name of the software used to manage music and other media on Apple devices?,IPod,3,iTunes
+"Prior to iOS 5, how many apps were required to play music and videos on iPhone and iPad?",IPod,4,one
+In what year did iPhone sales surpass those of iPods?,IPod,4,2010
+Which generation of iPod Touch was made availalbe in July of 2015?,IPod,5,sixth
+In what year was the most recent iPod Touch released?,IPod,5,2015
+In what year was the iPod first introduced?,IPod,6,2001
+Which Apple engineer led original iPod design group?,IPod,6,Jon Rubinstein
+What was the storage capacity of the first iPod?,IPod,6,5 GB
+in what year was the original iPod released?,IPod,6,2001
+How large was the hard drive on the original iPod?,IPod,6,5 GB
+What other popular music player did Apple compare their new product to?,IPod,6,the Walkman
+What is the name of Apple's hardware engineering chief who helped design the iPod?,IPod,6,Jon Rubinstein
+What was the name of the font used prior to the release of the iPod Mini?,IPod,7,Chicago
+The 6th gen iPod Classic and 3rd gen iPod nano featured which font?,IPod,7,Helvetica
+Who supervised the design and implementation of the iPod user interface?,IPod,7,Steve Jobs
+What typeface does the current iPod use?,IPod,7,Helvetica
+What color was the metal on the U2 version of the iPod?,IPod,8,black
+What type of media was included with purchase of the U2 version of the iPod?,IPod,8,video
+What color was the special U2 iPod model?,IPod,8,black
+Who previously applied for a patent for an iPod-like device?,IPod,9,Kane Kramer
+In what year did Kane Kramer apply for his patent?,IPod,9,1981
+What was the name of the previously-patented music player from 1981?,IPod,9,IXI
+Who came up with the name for Apple's portable mp3 player?,IPod,10,Vinnie Chieco
+What was Vinnie Chieco's profession?,IPod,10,freelance copywriter
+What film inspired the name of the iPod?,IPod,10,2001: A Space Odyssey
+Who first trademarked the iPod name?,IPod,10,Joseph N. Grasso
+In what year was Apple given rights to the iPod name?,IPod,10,2005
+What movie inspired the iPod name?,IPod,10,2001: A Space Odyssey
+"What was the name of the copywriter that proposed the name ""iPod""?",IPod,10,Vinnie Chieco
+What version of iTunes contained the leaked photos of new iPod colors?,IPod,11,12.2
+What was the latest version of iTunes as of mid-2015?,IPod,11,12.2
+What part of audio output was substandard on 3rd generation iPods?,IPod,12,bass
+What component was to blame for the weak bass of the 3rd generation iPod?,IPod,12,undersized DC-blocking capacitors
+What specific problem caused the issue with bass distortion?,IPod,13,clipping
+iPods released before what year had issues with distorted bass?,IPod,13,2006
+What EQ settings were known to have issues with bass distortion?,IPod,13,"R&B, Rock, Acoustic, and Bass Booster"
+What type of sensory issue was a concern prior to the release of 5th gen iPods?,IPod,14,hearing loss
+In what country did Apple have to recall iPods?,IPod,14,France
+What is the highest volume output level of European 6th-generation iPods?,IPod,14,100 dB
+What was the first type of connection used by the iPod to charge and transfer files?,IPod,15,FireWire
+What type of connector was originally required to upload songs or recharge the iPod?,IPod,15,FireWire
+In which generation did iPod start providing compatibility with USB?,IPod,16,third generation
+What iPod feature allowed for USB connections with the device?,IPod,16,30-pin dock connector
+Which generation of iPod Classic was the first to abandon use of FireWire in transferring files?,IPod,16,fifth
+Starting with which generation of iPod Nano was FireWire charging functionality no longer available?,IPod,16,fourth
+Which generation iPod was the first to include the 30-pin dock connector?,IPod,16,third generation
+Which model of iPod combined the headphone jack and data port?,IPod,16,Shuffle
+What interface was gradually phased out for both charging and data transfer?,IPod,16,FireWire
+What interface replaced FireWire in later iterations of the iPod?,IPod,16,USB
+What are two companies that make iPod accessories?,IPod,17,Belkin and Griffin
+What part of the iPod is needed to communicate with peripherals?,IPod,17,dock connector
+What is the condition for third parties using the dock connector?,IPod,17,paying royalties
+"What other Apple product was unveiled on September 12, 2012?",IPod,18,seventh generation iPod Nano
+On how many sides of the Lightning connector are the pins located?,IPod,18,both sides
+What's Apple's code name for the newer 8-pin dock connector?,IPod,18,Lightning
+What was the first iPod Touch generation to feature the Lightning connector?,IPod,18,fifth generation
+What is an example of an iPod accessory made work exercise?,IPod,19,Nike+iPod pedometer
+Who manufactures a pedometer accessory for the iPod?,IPod,19,Nike
+What company was first to create a means of connecting the iPod to an automobile?,IPod,20,BMW
+In what year did Apple reveal that it would provide compatibility with a wide range of auto manufacturers?,IPod,20,2005
+What companies have developed iPod interfacing for their stereo systems?,IPod,21,"JVC, Pioneer, Kenwood, Alpine, Sony, and Harman Kardon"
+What has become a standard inclusion in cars for several different auto companies?,IPod,21,audio input jacks
+Which type of iPod car integration product is illegal in certain countries?,IPod,21,FM transmitters
+What audio integration feature has become standard on many car models?,IPod,21,audio input jacks
+Where can people using iPods on planes view the device's interface?,IPod,22,individual seat-back displays
+Which airlines first agreed to install seat connections for iPods?,IPod,22,"United, Continental, Delta, and Emirates"
+In what year did airlines first start to accommodate the iPod?,IPod,22,2007
+What is the name of an audio format developed by Apple?,IPod,23,Apple Lossless
+Which product enabled users to view images on the device?,IPod,23,iPod photo
+What Microsoft media format is not natively supported by Apple devices?,IPod,23,WMA
+What does DRM stand for?,IPod,23,Digital Rights Management
+What are some examples of audio formats supported by the iPod?,IPod,23,"MP3, AAC/M4A, Protected AAC, AIFF, WAV, Audible audiobook, and Apple Lossless"
+What was the first model to support JPEG and other still image formats?,IPod,23,iPod photo
+How many hosts are recognized by an iPod the first time they're used?,IPod,24,one
+What will be erased if an iPod is set to sync with a different computer?,IPod,24,library
+What must an iPod be connected to before iTunes can synchronize?,IPod,24,host computer
+How many buttons do most iPods use?,IPod,25,five
+On what part of newer iPods can you find the buttons?,IPod,25,click wheel
+What other device shares the interface used by the iPod Touch?,IPod,25,iPhone
+Most iPods feature how many buttons?,IPod,25,five
+The 3rd generation of which iPod model had its controls only on the earphone cable?,IPod,25,Shuffle
+What program is required to access the iTunes Store?,IPod,26,iTunes
+When were videos made available through the iTunes store?,IPod,26,"October 12, 2005"
+When did Apple begin selling entire films through the iTunes store?,IPod,26,"September 12, 2006"
+In what year was the iTunes store established?,IPod,26,2003
+"When the iTunes store was launched, what type of file format was used?",IPod,27,AAC
+How many computers were allowed to play files that used the FairPlay DRM system?,IPod,27,five
+In what category could files without digital rights management be found on the iTunes store?,IPod,27,iTunes Plus
+When did Apple reveal that most of the iTunes selection was free from DRM?,IPod,27,"January 6, 2009"
+What was the original format for purchased audio files on iTunes?,IPod,27,AAC
+What was the name of the premium service that offered higher quality and DRM-free songs?,IPod,27,iTunes Plus
+For what device's sales does Apple leverage the iTunes store?,IPod,28,iPods
+The iPod can play music from other online stores as long as they don't contain what feature?,IPod,28,DRM
+What company ended its deal with Apple's music store in July of 2007?,IPod,29,Universal Music Group
+In what year did Universal Music Group let their contract with iTunes lapse?,IPod,29,2007
+On what date was the iTunes Wi-Fi Music Store launched?,IPod,30,"September 5, 2007"
+In what year was the iTunes Wi-Fi Music Store introduced?,IPod,30,2007
+What was included on the first iPod?,IPod,31,Brick
+"What are three games, in addition to Brick, which have been included with the iPod?",IPod,31,"Parachute, Solitaire, and Music Quiz"
+What is another phrase meaning hidden feature?,IPod,31,easter egg
+"What was the first, hidden game included with the original iPod?",IPod,31,Brick
+What other games were later added to the original iPod?,IPod,31,"Parachute, Solitaire, and Music Quiz"
+In what year did the iTunes store begin allowing users to buy video games?,IPod,32,2006
+Which version of iTunes was introduced with the ability to purchase games?,IPod,32,iTunes 7
+What was the first generation of iPod Classic on which games like Mahjong and Tetris could be played?,IPod,32,5th generation
+On which generation of iPod Nano can games be played?,IPod,32,4th generation
+"In what year did iTunes 7 launch, along with a plethora of additional games?",IPod,32,2006
+Which generation iPod was required to enjoy the new games available on iTunes 7?,IPod,32,fifth
+What market can Apple participate in now that it has a variety of games available for iPod?,IPod,33,video game handheld console market
+What two publications have covered iPod games?,IPod,33,GamePro and EGM
+What format is used for iPod game files?,IPod,34,.ipg
+What is the only operating system on which iPhone SDK-made games can be played?,IPod,34,iOS
+An app produced with the iPhone SDK can only run on what devices?,IPod,34,iPod Touch and iPhone
+Is the Apple SDK available to third-party game publishers?,IPod,34,not
+What kind of other applications enable communication between iTunes and an iPod?,IPod,35,third-party
+"Rather than copying media files directly to it, what software must be used for this purpose so that they are accessible?",IPod,35,iTunes
+In what kind of folder are files located in the iPod?,IPod,36,hidden
+What method of file recovery is used to retrieve data from the iPod?,IPod,36,manual
+In what year did Apple face multiple intellectual property lawsuits?,IPod,37,2005
+What did the 2005 lawsuits accuse Apple of doing?,IPod,37,patent infringement
+What other companies were named in the suit filed by Pat-rights?,IPod,37,"Sony, RealNetworks, Napster, and Musicmatch"
+On whose behalf did Pat-rights take Apple to court?,IPod,37,Ho Keung Tse
+"Which company sued Apple for breach of a ""music jukebox"" patent in 2005?",IPod,37,Advanced Audio Devices
+Which Apple technology did Pat-rights complain breached their patent in a lawsuit?,IPod,37,FairPlay
+What interface component did Apple attempt to patent in 2005?,IPod,38,rotational user inputs
+When did Apple receive a decision on its attempt to patent rotational user inputs?,IPod,38,August 2005
+Which competitor sued Apple over rights to part of the software user interface?,IPod,38,Creative Technology
+What was the name of the patent over which Creative asserted its ownership?,IPod,38,Zen Patent
+What interface feature did Apple unsuccessfully try to patent?,IPod,38,rotational user inputs
+When did Creative and Apple come to an agreement over their intellectual property issues?,IPod,39,"August 24, 2006"
+How much did Apple pay to Creative Technologies to settle their 2006 suit?,IPod,39,$100 million
+What's the name of the program by which 3rd parties sell iPod accessories?,IPod,39,the Made for iPod program
+What share of the US digital music player market does iPod hold?,IPod,40,90%
+When did iPod become the leader in digital music device sales?,IPod,40,2004
+How much of the market did iPod claim as of January 2007?,IPod,40,72.7%
+Who reported Apple's market share in 2007?,IPod,40,Bloomberg Online
+Approximately what percentage of the hard drive-based music player sales does iPod have since 2004?,IPod,40,90%
+Approximately what percentage of the overall music player market does the iPod line have?,IPod,40,70%
+When did HP unveil their own edition of the iPod?,IPod,41,"January 8, 2004"
+What major retailer sold HP-branded iPod devices?,IPod,41,Wal-Mart
+How many iPods did Apple reveal it sold in April of 2007?,IPod,42,hundred million
+How much of Apple's revenue was generated by iPod purchases in Q2 of 2007?,IPod,42,32%
+How much revenue did Apple announce for Q2 2007?,IPod,42,$5.2 billion
+"As of 2007, what percentage of Apple's revenue came from iPod sales?",IPod,42,32%
+Desktop computers made up how much of Apple's revenue in the third quarter of 2007?,IPod,43,19.22%
+What was the value of Apple's cash assets at the end of 2007?,IPod,43,$15.4 billion
+What was Apple's highest quarterly profit as of Q1 2008?,IPod,44,$1.58 billion
+How much of Apple's revenue resulted from purchases of laptop computers in Q1 2008?,IPod,44,21%
+"What percentage of Apples revenue in 1Q08 came from iPods, more than doubling the percentage of notebook sales?",IPod,44,42%
+From what year did iPod purchases begin to continuously decline?,IPod,45,2009
+How much revenue did iPod sales account for in Q4 2008?,IPod,45,14.21%
+Approximately how many total iPods had been sold by late 2009?,IPod,45,220 million
+What rank did iPod achieve among various computer products in 2006?,IPod,46,fourth
+What two companies use the AAC format for music files?,IPod,46,Sony Ericsson and Nokia
+What file format is not supported by Sony Ericsson and Nokia?,IPod,46,WMA
+Which phone manufacturers adopted the AAC file format to become better iPod-compatible?,IPod,46,Sony Ericsson and Nokia
+"Aside from recreational use, in what other arena have iPods found use?",IPod,47,business
+What are two purposes for which iPods are used in business?,IPod,47,communication and training
+What is the name of a company that uses iPods as part of its training?,IPod,47,Royal and Western Infirmaries
+What publication lauded the iPod for enabling people to listen to thousands of songs on a portable player?,IPod,48,Entertainment Weekly
+Which major university began issuing iPods to all incoming freshmen starting in 2004?,IPod,48,Duke
+Which magazine placed the iPod on its Best of the Decade list for the 00's?,IPod,48,Entertainment Weekly
+What period of music did the iPod help bring to a close?,IPod,49,the Album Era
+In which industry did the iPod have a major impact?,IPod,49,music industry
+What did the iPod promote that prompted a big change in the music industry?,IPod,49,digital music storage
+"The ease of collecting singles with the iPod and iTunes is credited with ending what ""era"" in pop music?",IPod,49,the Album Era
+How long were 5th generation iPods marketed as being able to function before needing to be charged?,IPod,50,14 hours
+Which website criticized Apple's battery life claims?,IPod,50,MP3.com
+In what year was Apple sued for issues relating to its battery life?,IPod,50,2003
+"How many hours of real-time battery life did the 5th-generation iPod test at, compared to its advertised 14 hours?",IPod,50,8 hours
+Whose directions can be followed to interact with iPod batteries?,IPod,51,third-party vendors
+What did Apple originally tell consumers to purchase when their iPod batteries no longer worked?,IPod,51,refurbished replacement iPod
+What kind of battery does the iPod use?,IPod,51,lithium-ion
+Which iPod component did Apple somewhat inconveniently made non-replaceable?,IPod,51,batteries
+What type of rechargeable battery does Apple use in its iPods?,IPod,51,lithium-ion
+How much did iPod owners originally have to pay for replacement batteries?,IPod,52,$99
+What was needed to replace an iPod Nano battery?,IPod,52,soldering tools
+What generation saw iPod batterys being affixed with glue?,IPod,52,Fifth generation
+In what year did Apple begin a formal battery replacement program?,IPod,52,2003
+What was the original price for a replacement battery from Apple?,IPod,52,$99
+Which iPod model has its battery soldered into the unit?,IPod,52,Nano
+What program allowed users to exchange iPod Nanos which suffered from overheating problems with new safe models?,IPod,53,Apple product replacement program
+"How often did MacInTouch discover iPods stopped working, according to their survey?",IPod,54,13.7%
+When did iPod owners take issue with the fragility of the iPod screen?,IPod,54,late 2005
+The first generation nano suffered from which component getting damaged easily?,IPod,54,screen
+What publication revealed information about the working conditions of iPod labor?,IPod,55,The Mail on Sunday
+What percentage of Apple's manufacturing employees worked over 60 hour weeks?,IPod,55,35%
+Who did Apple partner with to monitor its labor policies?,IPod,56,Verité
+What organization did Apple join to monitor its labor policies?,IPod,56,Electronic Industry Code of Conduct Implementation Group
+What company was found to be violating Apple's labor policies?,IPod,56,Foxconn
+Where was the Foxconn plant located?,IPod,56,"Longhua, Shenzhen"
+What was the name of Apple's manufacturing company that was accused of overworking its employees?,IPod,56,Foxconn
+What auditor company did Apple hire to oversee worker conditions following the controversy?,IPod,56,Verité
+In what year did Foxconn workers first unionize?,IPod,56,2006
+In what year did Chinese Foxconn emplyees kill themselves?,IPod,57,2010
+In what year did several Foxconn workers commit suicide?,IPod,57,2010
+What attribute of the United States could be thought to lead more international and less domestic employment opportunities?,IPod,58,innovation
+In what year did the earthquake in Sichuan occur?,2008_Sichuan_earthquake,59,2008
+How many people were killed as a result?,2008_Sichuan_earthquake,59,"69,197"
+What year did the Sichuan earthquake take place?,2008_Sichuan_earthquake,59,2008
+What time of the day did the quake happen?,2008_Sichuan_earthquake,59,02:28:01 PM China Standard Time
+Which far away cities in other countries could feel the earthquake?,2008_Sichuan_earthquake,60,Beijing and Shanghai
+Where was the epicenter of the earthquake?,2008_Sichuan_earthquake,60,"Wenchuan County, Sichuan"
+How many people lived in the affected area?,2008_Sichuan_earthquake,61,15 million
+How much money was dedicated to rebuild ravaged areas?,2008_Sichuan_earthquake,61,1 trillion RMB
+How many people are listed as missing?,2008_Sichuan_earthquake,61,"18,222"
+What percentage of buildings were destroyed?,2008_Sichuan_earthquake,62,80%
+How long did the main tremor last?,2008_Sichuan_earthquake,62,2 minutes
+How deep was the focus of the earthquake?,2008_Sichuan_earthquake,63,10 km
+Along what fault line did the quake happen?,2008_Sichuan_earthquake,63,Longmenshan fault
+When wasmost of the energy released during the initial eruption?,2008_Sichuan_earthquake,63,first 80 sec.
+What was the most displacement caused by the earthquake?,2008_Sichuan_earthquake,63,9 meters
+When was Geng's drought-earthquake correlation theory released?,2008_Sichuan_earthquake,64,1972
+What did an official with the Seismological Bureau deny receiving?,2008_Sichuan_earthquake,64,reports predicting the earthquake
+How large was the displacement?,2008_Sichuan_earthquake,65,up to 9 meters
+How long was the fault where the quake occurred?,2008_Sichuan_earthquake,65,240 km long
+Where on the fault is the possibility of future earthquakes increased?,2008_Sichuan_earthquake,65,northeastern and southwestern ends
+"Besides the population density, what else contributed to the severity of the quake?",2008_Sichuan_earthquake,66,shallowness of the epicenter
+When were the aftershocks recorded?,2008_Sichuan_earthquake,67,within 72 hours of the main quake.
+What do the Chinese say is the total number of shocks after the quake?,2008_Sichuan_earthquake,67,"42,719"
+What did the strongest aftershock measure?,2008_Sichuan_earthquake,67,6.4 MS
+At what date did the most recent aftershock above 6 MS occur?,2008_Sichuan_earthquake,67,"August 5, 2008"
+Where did this earthquake occur?,2008_Sichuan_earthquake,68,southern Sichuan
+What earthquake happened in southern Sichuan?,2008_Sichuan_earthquake,68,Panzhihua earthquake
+What does the China Seismic Intensity Scale call the earthquake?,2008_Sichuan_earthquake,69,very destructive
+How did the USGS rate the earthquake?,2008_Sichuan_earthquake,69,very disastrous
+How large was the slip 30 km northeast of the fault?,2008_Sichuan_earthquake,70,3 metres
+What was the horizontal average slip on the Guanxian-Anxian fault?,2008_Sichuan_earthquake,70,2.3 metres
+What was the horizontal slippage perpendicular to the fault?,2008_Sichuan_earthquake,70,4.8 metres
+Where were office buildings evacuated?,2008_Sichuan_earthquake,71,Shanghai's financial district
+Where were office towers evacuated?,2008_Sichuan_earthquake,72,Beijing
+Where did a cargo train derail as a result?,2008_Sichuan_earthquake,72,"Hui County, Gansu"
+What part of the Olympic area was not damaged?,2008_Sichuan_earthquake,72,venues
+Where did a cargo train derail?,2008_Sichuan_earthquake,72,"Hui County, Gansu"
+How many highways leading into Wenchuan were damaged?,2008_Sichuan_earthquake,73,All of the highways
+What percentage of building collapsed in Beichuan?,2008_Sichuan_earthquake,73,80%
+What leaked liquid ammonia in Shifang?,2008_Sichuan_earthquake,73,two chemical plants
+How many of the 900 students buried in a Dujiangyan school collapse survived?,2008_Sichuan_earthquake,73,fewer than 60
+Where were the exchanges based?,2008_Sichuan_earthquake,74,southwestern China
+"Besides the Shanghai Stock Exchange, what other exchange suspended trading of southwestern China stock?",2008_Sichuan_earthquake,74,Shenzhen Stock Exchange
+What kinds of telecommunications were cut?,2008_Sichuan_earthquake,75,mobile and terrestrial
+What capabilities were cut to the entire Sichuan area?,2008_Sichuan_earthquake,75,internet
+How long did it take for these capabilities to be restored?,2008_Sichuan_earthquake,75,months
+Where were the internet cut?,2008_Sichuan_earthquake,75,Sichuan area
+Who restored communications over a period of months?,2008_Sichuan_earthquake,75,the government
+What services were finally online again?,2008_Sichuan_earthquake,75,major news and media
+How many Unicom towers were suspended?,2008_Sichuan_earthquake,76,more than 700
+What place could officials not contact?,2008_Sichuan_earthquake,77,the Wolong National Nature Reserve
+What nature center was cutoff?,2008_Sichuan_earthquake,77,Wolong National Nature Reserve
+How many pandas escaped the reserve?,2008_Sichuan_earthquake,77,Six
+What power plant was damaged?,2008_Sichuan_earthquake,78,Hydropower Plant
+How many dams were damaged?,2008_Sichuan_earthquake,78,391
+What might possibly collapse upstream from the power plant?,2008_Sichuan_earthquake,78,Tulong reservoir
+How many people were injured?,2008_Sichuan_earthquake,79,"374,176"
+What is the number of missing persons?,2008_Sichuan_earthquake,79,"18,498"
+How many people were injured?,2008_Sichuan_earthquake,79,"374,176"
+What were the 158 relief workers doing when they were killed?,2008_Sichuan_earthquake,79,tried to repair roads
+Where is Yingxiu located?,2008_Sichuan_earthquake,80,in Wenchuan
+How many people were killed in Beichuan County?,2008_Sichuan_earthquake,80,"3,000 to 5,000"
+What is the number of schools that collapsed in Dujiangyan?,2008_Sichuan_earthquake,80,Eight schools
+What is poor about inland areas such as Sichuan?,2008_Sichuan_earthquake,81,Health care
+How economically forward has this area been?,2008_Sichuan_earthquake,81,neglected and untouched
+What did the Vice Minster of Health call the public health system in China?,2008_Sichuan_earthquake,81,insufficient
+How many school children died due to shoddy construction?,2008_Sichuan_earthquake,82,thousands
+How many people were buried in the collapsed schools?,2008_Sichuan_earthquake,82,"1,700"
+How many people were buried under rubble in Mianyang City?,2008_Sichuan_earthquake,82,"1,700"
+How many school buildings fell in the entire province?,2008_Sichuan_earthquake,82,"7,000"
+How many were killed at the Juyuan Elementary School?,2008_Sichuan_earthquake,82,600
+How many children are disabled?,2008_Sichuan_earthquake,83,546
+How many people were left without housing?,2008_Sichuan_earthquake,84,5 million
+How many animals were killed?,2008_Sichuan_earthquake,84,12.5 million
+How many pigs died from the earthquake in Sichuan ?,2008_Sichuan_earthquake,84,a million
+After the quake what kind of international team was sent to the area?,2008_Sichuan_earthquake,86,team of engineers
+What was the team sent to China to make?,2008_Sichuan_earthquake,86,survey of damaged buildings
+What areas were the hardest hit?,2008_Sichuan_earthquake,87,"the poorer, rural villages"
+What part of China did the earthquake occur in?,2008_Sichuan_earthquake,87,rural part
+What manner of building codes are there in China?,2008_Sichuan_earthquake,87,very strong
+What damage did the major Sichuan cities have?,2008_Sichuan_earthquake,88,minor damage
+What is an estimate of losses to economics?,2008_Sichuan_earthquake,88,US$75 billion
+Which cities in Sichuan had minor damage?,2008_Sichuan_earthquake,88,five largest cities
+How strong was the May 25 aftershock in Qingchuan county?,2008_Sichuan_earthquake,89,6.0 Mw
+How many people were injured in the May 25 aftershock?,2008_Sichuan_earthquake,89,1000
+Where was the aftershock of August 5 that caused widespread hill slides?,2008_Sichuan_earthquake,89,"Qingchuan, Sichuan"
+Who was the executive vice governor?,2008_Sichuan_earthquake,90,Wei Hong
+How many schools were reconstructed?,2008_Sichuan_earthquake,90,"1,300"
+"Who spoke about the dead and missing people on November 21, 2008?",2008_Sichuan_earthquake,90,Wei Hong
+How many homes had been rebuilt?,2008_Sichuan_earthquake,90,"200,000"
+What was Premier Wen Jiabao's background in?,2008_Sichuan_earthquake,91,geomechanics
+What did Jiabao oversee in the region?,2008_Sichuan_earthquake,91,the rescue work
+What level alert was instated for the quake?,2008_Sichuan_earthquake,92,Level II emergency
+What class of disasters is a level II emergency?,2008_Sichuan_earthquake,92,most serious
+How many people were in the earthquake emergency relief team?,2008_Sichuan_earthquake,93,184
+Where did 22 of the relief team come from?,2008_Sichuan_earthquake,93,Armed Police General Hospital
+How did the relief team travel to Wenchuan county?,2008_Sichuan_earthquake,93,in two military transport planes
+What was the name of the person who published a report in the China Digital Times?,2008_Sichuan_earthquake,94,Book Blade
+When is Children's Day?,2008_Sichuan_earthquake,95,June 1
+What country was the largest aid donor to China?,2008_Sichuan_earthquake,96,Saudi Arabia
+What country was the largest aid donor to China?,2008_Sichuan_earthquake,96,Saudi Arabia
+How many international organizations made donations?,2008_Sichuan_earthquake,96,four
+How long did the plan last?,2008_Sichuan_earthquake,97,3 years
+What is the basis for this plan?,2008_Sichuan_earthquake,97,one province to one affected county
+What is the cost per province's budget?,2008_Sichuan_earthquake,97,one percent
+What did the professors predict?,2008_Sichuan_earthquake,99,the time of the 2008 Sichuan earthquake
+What did they collect to use in this method?,2008_Sichuan_earthquake,99,statistics
+What was stated in the press conference?,2008_Sichuan_earthquake,100,that earthquake prediction was a global issue
+What do many geologists believe about earthquake prediction?,2008_Sichuan_earthquake,100,no proven methods exist
+What was received before the quake occurred?,2008_Sichuan_earthquake,100,no prediction notification
+What did  seismologist Gary Gibson have to say about the prediction of the quake?,2008_Sichuan_earthquake,100,did not see anything
+Who published a Seismic Risk Analysis Study?,2008_Sichuan_earthquake,101,Chen Xuezhong
+What strength did he predict the next quake in Sichuan to be?,2008_Sichuan_earthquake,101,over 7.0
+What was the reason that many rescue teams could not join the relief efforts?,2008_Sichuan_earthquake,103,the traffic problem
+What action did the Red Cross recommend ?,2008_Sichuan_earthquake,103,donating cash
+Where were the soldiers under commander Yang Wenyao trying to go?,2008_Sichuan_earthquake,103,Tibetan village of Sier
+"By May 13, how many troops had been added to the rescue efforts?",2008_Sichuan_earthquake,104,"15,600"
+How people were reported to be survivors in Yingxiu Town?,2008_Sichuan_earthquake,104,"around 3,000"
+What did Premier Wen Jiabao order?,2008_Sichuan_earthquake,105,the deployment of an additional 90 helicopters
+Who provided the other 30 helicopters?,2008_Sichuan_earthquake,105,civil aviation industry
+What kind of operation did this massing of aircraft produce?,2008_Sichuan_earthquake,105,non-combat airlifting
+What did China say they would accept?,2008_Sichuan_earthquake,106,international help
+What did China need help for?,2008_Sichuan_earthquake,106,cope with the quake
+How did the move the relief supplies from Taiwan to the stricken area?,2008_Sichuan_earthquake,107,chartered cargo flight
+Where did the Red Cross team from Taiwan land?,2008_Sichuan_earthquake,107,Chengdu
+Who did the US share the satellite images with?,2008_Sichuan_earthquake,108,Chinese authorities
+"When did groups from South Korea, Japan, and others arrive in China?",2008_Sichuan_earthquake,108,May 16
+What did the U.S. share with China?,2008_Sichuan_earthquake,108,satellite images
+What was included in the the Air Force C-17 supplies?,2008_Sichuan_earthquake,108,tents and generators
+What was extensively used to pass information to aid rescue and recovery efforts?,2008_Sichuan_earthquake,109,The Internet
+What did the Xinhua news agency set up?,2008_Sichuan_earthquake,109,an online rescue request center
+What was the purpose of this online rescue request center?,2008_Sichuan_earthquake,109,to find the blind spots of disaster recovery
+Who set up an online site to focus on blind spots in recovery?,2008_Sichuan_earthquake,109,news agency Xinhua
+What kind of information were websites set up to store?,2008_Sichuan_earthquake,109,contact information
+What was done for the anniversary?,2008_Sichuan_earthquake,110,a moment of silence
+Where did the government open access to?,2008_Sichuan_earthquake,110,the sealed ruins of the Beichuan county seat
+How long was it opened for?,2008_Sichuan_earthquake,110,three days
+What did China do to mark the first anniversary of the quake?,2008_Sichuan_earthquake,110,a moment of silence
+What kind of event were given to raise money for quake survivors?,2008_Sichuan_earthquake,110,several concerts
+What is the Beichuan museum meant to remind people of?,2008_Sichuan_earthquake,110,the terrible disaster
+What companies received the money?,2008_Sichuan_earthquake,111,China Unicom and China Mobile
+How much had the Chinese government designated by May 16?,2008_Sichuan_earthquake,111,$772 million
+How much were both supplies worth?,2008_Sichuan_earthquake,112,"788,000 yuan"
+What county were the supplies flown to?,2008_Sichuan_earthquake,112,Wenchuan County
+How much has the Amity Foundation designated for disaster relief?,2008_Sichuan_earthquake,112,"US$143,000"
+How many tents did the Sichuan Ministry of Affairs provide?,2008_Sichuan_earthquake,112,"30,000"
+What foundation had already begun relief work in the area?,2008_Sichuan_earthquake,112,The Amity Foundation
+What catch-phrase was invented as a result of collapsed schools?,2008_Sichuan_earthquake,113,tofu-dregs schoolhouses
+How much did Jackie Chan donate to support?,2008_Sichuan_earthquake,114,$1.57 million
+What was the program that CCTV-1 hosted?,2008_Sichuan_earthquake,114,The Giving of Love
+What company gave the most?,2008_Sichuan_earthquake,114,CCTV
+How much did actor Jackie Chan donate?,2008_Sichuan_earthquake,114,1.57 million
+"What was the fear that caused 200,000 people to be evacuated from Mianyang?",2008_Sichuan_earthquake,117,the dam bursting
+This was the biggest display of mourning since the death of who?,2008_Sichuan_earthquake,118,Mao Zedong
+What was suspended for the duration of the mourning period?,2008_Sichuan_earthquake,119,Olympic torch relay
+Where was the torch relay supposed to take place?,2008_Sichuan_earthquake,119,in Ningbo
+Who was the principal of Sangzao Middle School? ,2008_Sichuan_earthquake,121,Ye Zhiping
+How much money was used to strengthen the construction of the school?,2008_Sichuan_earthquake,121,"400,000 yuan"
+The Sangzao school is one of the biggest in what county?,2008_Sichuan_earthquake,121,An County
+Why were the schools inspected?,2008_Sichuan_earthquake,122,to gain first-hand material of construction quality
+What was to be carried out at schools after the quake?,2008_Sichuan_earthquake,122,safety checks
+Where are the Chinese going to perform safety checks?,2008_Sichuan_earthquake,122,schools across China
+What group reported that Chinese prosecutors were involved in investigating the schoolhouse collapses?,2008_Sichuan_earthquake,122,Reuters
+What was given in exchange of signing the document?,2008_Sichuan_earthquake,123,money
+What other methods were used to break up protests?,2008_Sichuan_earthquake,123,riot police
+Who did the New York Times report was investigating the school collapses?,2008_Sichuan_earthquake,123,government officials
+What did officials order Chinese news media to stop reporting?,2008_Sichuan_earthquake,123,on school collapses
+What was Liu's family told?,2008_Sichuan_earthquake,124,that he was being investigated on suspicion of the crime of inciting subversion
+Why was he investigated?,2008_Sichuan_earthquake,124,crime of inciting subversion
+What did Liu Shankun do with the pictures he took of collapsed schools?,2008_Sichuan_earthquake,124,put them online
+When did the sentencing occur?,2008_Sichuan_earthquake,125,in 2007
+What did he think that the poor construction led to?,2008_Sichuan_earthquake,125,massive casualties
+What did UNICEF report?,2008_Sichuan_earthquake,126,that China formally requested the support of the international community
+What did foreign nations offer China because of the severity of the quake?,2008_Sichuan_earthquake,126,condolences and assistance
+How much did the Red Cross collect in donations?,2008_Sichuan_earthquake,127,$26 million
+What famous basketball player made two large donations to the crisis?,2008_Sichuan_earthquake,127,Yao Ming
+How much has the Red Cross Society  collected?,2008_Sichuan_earthquake,127,26 million
+What did Francis Marcus say of the Chinese relief effort?,2008_Sichuan_earthquake,128,swift and very efficient
+What kind of attitude did Burma display in response to a cyclone a few days earlier?,2008_Sichuan_earthquake,128,secretive
+What about pay TV channels?,2008_Sichuan_earthquake,129,programmes suspended
+What was the Chinese government first praised for?,2008_Sichuan_earthquake,130,response to the quake
+What kind of stories were being censored in the media?,2008_Sichuan_earthquake,131,poorly built schools
+Who has ignored the school issue?,2008_Sichuan_earthquake,132,state-controlled media
+What media source has reported this happening?,2008_Sichuan_earthquake,132,The AP
+Why are the buildings so shoddily built?,2008_Sichuan_earthquake,133,builders cut corners
+What did many families lose in the earthquake?,2008_Sichuan_earthquake,134,their only child
+Where does the information stored on the Wayback Machine come from?,Wayback_Machine,135,World Wide Web
+What individuals founded Internet Archive?,Wayback_Machine,135,Brewster Kahle and Bruce Gilliat
+What is the ultimate aim of the Wayback Machine?,Wayback_Machine,136,to archive the entire Internet
+What TV show served as inspiration for the Wayback Machine's name?,Wayback_Machine,137,The Rocky and Bullwinkle Show
+When was the program necessary to crawl and archive the web created?,Wayback_Machine,138,1996
+At what milestone was the archive made public?,Wayback_Machine,139,fifth anniversary
+Where was the event launching the publicly-available archive held?,Wayback_Machine,139,"University of California, Berkeley"
+Where does Internet archive run a datacenter?,Wayback_Machine,143,Sun Microsystems' California campus
+When was an upgrade of the Wayback Machine released for testing?,Wayback_Machine,144,2011
+When was Save a Page made available?,Wayback_Machine,146,October 2013
+Which judge presided over the Netbula v. Chordiant case?,Wayback_Machine,149,Magistrate Judge Howard Lloyd
+Which judge overturned Keys' ruling?,Wayback_Machine,150,district Court Judge Ronald Guzman
+When are Internet Archive timestamps useful for patent offices?,Wayback_Machine,151,in examining a patent application
+What is an example of a condition that must be met for the Internet Archive data to be considered acceptable for submission to patent offices in the US and Europe?,Wayback_Machine,151,authoritative statement of the archivist
+What kinds of laws could the Wayback Machine be viewed as breaking in Europe?,Wayback_Machine,153,copyright laws
+What would the Internet Archive have to do if requested by someone whose content is available on Wayback Machine?,Wayback_Machine,153,delete pages from its system
+Web pages that contained content critical of what religous movement were taken off of the Internet Archive in 2002?,Wayback_Machine,154,Scientology
+What kind of protocol is the Robots Exclusion Standard?,Wayback_Machine,156,voluntary
+"If a site prevents Internet Archive from recording it, what file is still saved?",Wayback_Machine,156,Robots.txt
+What was the URL owned by Suzanne Shell?,Wayback_Machine,158,profane-justice.org
+When did Suzanne Shell's suit against Internet Archive come to an end?,Wayback_Machine,159,"April 25, 2007"
+What was the first method used by the actor in trying to get his images taken down?,Wayback_Machine,160,DMCA requests
+Who currently is the Commander-in-Chief of the Canadian Armed Forces?,Canadian_Armed_Forces,163,Queen Elizabeth II
+What year did the CAF leave Europe?,Canadian_Armed_Forces,164,the early 1990s
+Where is the current focus of the Canadian Military set?,Canadian_Armed_Forces,165,out of area
+When was the Canada First Defence Strategy introduced?,Canadian_Armed_Forces,166,2008
+What other location does the Canada First Defence Strategy Cover?,Canadian_Armed_Forces,166,North America
+"Early on, what did they defend against with the British?",Canadian_Armed_Forces,168,invasion by the United States
+Where was the commander-in-chief stationed?,Canadian_Armed_Forces,169,Halifax
+When did the British Army and Royal Navy withdraw from Halifax?,Canadian_Armed_Forces,169,1906
+The Canadian Armed Forces were initially organized under what department?,Canadian_Armed_Forces,169,the Department of Militia and Defence
+How many operations has the Canadian Military been part of since 1947?,Canadian_Armed_Forces,171,more than 200 operations
+What are some of the wars the Canadian Military was involved in?,Canadian_Armed_Forces,171,"Cold War, First Gulf War, Kosovo War"
+What type of military vehicle was maintained almost 15 years but never saw any action during the Cuban crisis?,Canadian_Armed_Forces,171,an aircraft carrier
+What country was the latest Canadian Military effort?,Canadian_Armed_Forces,172,Croatia
+What country fell providing with more information on Canada's army size?,Canadian_Armed_Forces,173,the Soviet Union
+What does the Canadian Armed Forces mostly consist of?,Canadian_Armed_Forces,174,"the Royal Canadian Navy, Canadian Army, and Royal Canadian Air Force"
+When did Canada gain independence from the United Kingdom?,Canadian_Armed_Forces,174,1931
+What is the old name of the Canadian Forces?,Canadian_Armed_Forces,175,Canadian Armed Forces
+When was the Canadian Armed Forces name reintroduced?,Canadian_Armed_Forces,175,2013
+What is the total force of the Canadian Forces?,Canadian_Armed_Forces,177,"approximately 119,000"
+What large transport plane is part of the CAF mission?,Canadian_Armed_Forces,179,C-130 Hercules
+On what date was a study created to research the impart of women in direct involvement?,Canadian_Armed_Forces,181,5 February 1987
+Who created an office to study these effects?,Canadian_Armed_Forces,181,the Minister of National Defence
+By how much did opening these jobs to women increase the recruiting pool by?,Canadian_Armed_Forces,182,100 percent
+Which government was responsible in Canadian history for this fact?,Canadian_Armed_Forces,182,the government of Jean Chretien
+What is the hierarchy of the Canadian Armed Forces?,Canadian_Armed_Forces,184,It begins at the top with the most senior-ranking personnel and works its way into lower organizations.
+Who's advice is the monarch supposed to follow regarding these orders?,Canadian_Armed_Forces,185,the advice of his or her ministers in Cabinet
+Who is the highest ranking member of the Armed Forces?,Canadian_Armed_Forces,186,the Chief of the Defence Staff
+What are some of the members of the Armed Forces Council?,Canadian_Armed_Forces,186,"the heads of the Royal Canadian Navy, the Canadian Army, the Royal Canadian Air Force and other key Level 1 organizations."
+Where do Canadian Forces members go for training?,Canadian_Armed_Forces,187,Saint-Jean-sur-Richelieu
+What are the four divisions?,Canadian_Armed_Forces,189,"the 2nd Canadian Division, the 3rd Canadian Division, the 4th Canadian Division and the 5th Canadian Division"
+The Canadian Army Headquarters are located in what division?,Canadian_Armed_Forces,189,the 5th Canadian Division
+What medical group is present at all Brigades but not part of it?,Canadian_Armed_Forces,190,a field ambulance
+Where is most of the major training performed?,Canadian_Armed_Forces,191,"CFB Gagetown, CFB Montreal and CFB Wainwright."
+What are some locations of the air bases?,Canadian_Armed_Forces,193,"Alberta, Saskatchewan, Manitoba"
+Where are the command facilities located?,Canadian_Armed_Forces,193,Winnipeg and North Bay
+Where is the Canadian component of the NATO located?,Canadian_Armed_Forces,193,"Geilenkirchen, Germany"
+What patrols are organized from these locations?,Canadian_Armed_Forces,194,Arctic sovereignty patrols.
+What is the the Information Management Group responsible for?,Canadian_Armed_Forces,197,electronic warfare and the protection of the Armed Forces' communications and computer networks
+When was the Directorate of Cybernetics established?,Canadian_Armed_Forces,197,June 2011
+Who can temporarily be assigned the Health Serviced Group?,Canadian_Armed_Forces,198,Joint Task Force
+What type of support does The Health Services Group provide?,Canadian_Armed_Forces,198,domestic support
+Who commands the reserves?,Canadian_Armed_Forces,200,Chief of Reserves and Cadets
+What branch are the majority of COATS members?,Canadian_Armed_Forces,201,officers of the Cadet Instructors Cadre
+What do Canadian Rangers perform?,Canadian_Armed_Forces,202,provide surveillance and patrol services
+What is suitable for CAF members to wear on any occasion?,Canadian_Armed_Forces,203,service dress
+What can be worn in cold winter weather?,Canadian_Armed_Forces,203,Approved parkas
+What is only worn for very specific occasions?,Canadian_Armed_Forces,203,a ceremonial/regimental full dress
+What are some of the authorized head dresses for the CAF?,Canadian_Armed_Forces,204,"beret, wedge cap, ballcap"
+What is the most popular head dress worn?,Canadian_Armed_Forces,204,The beret
+What gives the federal government responsibility for national defense?,Canadian_Armed_Forces,205,The Constitution of Canada
+What were the cardinals assigned? ,Cardinal_(Catholicism),207,a church in Rome as his titular church or linked with one of the suburbicarian dioceses
+Who were the first people to be called cardinals in Rome? ,Cardinal_(Catholicism),209,the deacons of the seven regions of the city
+When were the Roman cardinals perceived as a privleged class among the Roman clergy?,Cardinal_(Catholicism),209,8th century
+What term was given to certain church men of honor?,Cardinal_(Catholicism),210,cardinal
+When was the title of cardinal reserved for the cardinals of Rome by Pius V?,Cardinal_(Catholicism),210,1567
+In what year was the letter sent?,Cardinal_(Catholicism),210,747
+In what year did the pope make the declaration?,Cardinal_(Catholicism),210,1567
+Who was in charge of the Ecumenical Council of Trent?,Cardinal_(Catholicism),211,Pope Pius IV
+In what roles did cardinals have important roles?,Cardinal_(Catholicism),213,secular affairs.
+Which cardinal acted a the leader of France due to his amount of power?,Cardinal_(Catholicism),213,Cardinal Richelieu
+Who is the only person to ever become a cardinal king?,Cardinal_(Catholicism),213,"Henry, King of Portugal"
+What did the composition of the cardinals consist of?,Cardinal_(Catholicism),214,"comprising six cardinal bishops, 50 cardinal priests, and 14 cardinal deacons."
+Pope Paul VI increse the number of cardinal electors to? ,Cardinal_(Catholicism),214,120
+Pope Paul VI raised the cap on cardinal electors from 70 to what?,Cardinal_(Catholicism),214,120
+Pope Paul VI had no cap on what?,Cardinal_(Catholicism),214,the number of cardinals generally
+What rank did the Eminece decree assigned?,Cardinal_(Catholicism),217,Prince
+What is the proper way to address a cardinal according to the Archdiocese of Milwaukee?,Cardinal_(Catholicism),218,Cardinal [First name] [Surname]
+Why do Oriental Patriarchs sign this way?,Cardinal_(Catholicism),218,because they do not belong to the Roman clergy
+What way is used to announce the election of a new pope in Latin?,Cardinal_(Catholicism),219,[First name] Cardinal [Surname]
+When is the last time a non cardinal was elected as pope?,Cardinal_(Catholicism),219,1378
+"Despite some traditions and rights, no see has the right to what?",Cardinal_(Catholicism),220,the cardinalate
+Who are among the most senior members of the Catholic Church?,Cardinal_(Catholicism),221,Cardinal bishops
+What is a cardinal bishop?,Cardinal_(Catholicism),221,cardinals of the episcopal order
+Why did the ceromony of consecrating a bishop have to be preformed by someone who was already a bishop?,Cardinal_(Catholicism),222,To preserve apostolic succession
+What are the seven sees?,Cardinal_(Catholicism),223,"Ostia, Albano, Porto and Santa Rufina, Palestrina, Sabina and Mentana, Frascati and Velletri"
+In what year was it decided that cardinal bishops had no power over the seven sees?,Cardinal_(Catholicism),224,1962
+In what year did the practice of donning this item stop?,Cardinal_(Catholicism),228,1969
+Which Cardinals still wear traditional clothing?,Cardinal_(Catholicism),229,Eastern Catholic cardinals
+Which item of clothing worn by cardinals is always white?,Cardinal_(Catholicism),230,rochet
+The Cardinal bird was named as such because of what in relation to Cardinals of the church?,Cardinal_(Catholicism),230,the scarlet color of cardinals' vesture
+"What happens if a Cardinal is named in pectore, and the pope dies?",Cardinal_(Catholicism),231,the cardinalate expires
+"What was a ""lay cardinal"" allowed to do that is not considered a normal status of a Cardinal?",Cardinal_(Catholicism),233,marry
+What did the Code of Canon Law state in regards to Cardinals?,Cardinal_(Catholicism),233,only those who are already priests or bishops may be appointed cardinals
+What color is the hat?,Cardinal_(Catholicism),238,white
+Which cardinals are ranked lowest?,Cardinal_(Catholicism),242,cardinal deacons
+Who are the lowest ranking cardinals in the Catholic church?,Cardinal_(Catholicism),246,cardinal deacons
+In what year did Pope Sixtus V put a cap on the number of cardinals in the College of Cardinals?,Cardinal_(Catholicism),249,1587
+Which three statistics does the HDI compile?,Human_Development_Index,252,"life expectancy, education, and income per capita"
+"Which measures the potential development, the HDI or the IHDI?",Human_Development_Index,253,the HDI
+In what year did Mahbub ul Haq devise and launch the HDI?,Human_Development_Index,254,1990
+Who was initially opposed to the idea of creating the HDI?,Human_Development_Index,254,Amartya Sen
+What does LE stand for?,Human_Development_Index,255,Life expectancy at birth
+What does EYS stand for?,Human_Development_Index,255,Expected years of schooling
+Which year was used for estimates in the 2015 report?,Human_Development_Index,257,2014
+On what date was the 2014 Human Development Report released?,Human_Development_Index,258,"July 24, 2014"
+Which Caribbean nation is in the top quartile of HDI (but missing IHDI)?,Human_Development_Index,260,Cuba
+Which East Asian dictatorship was excluded from the 2014 report?,Human_Development_Index,261,North Korea
+What is the main reason that countries were excluded from the 2011 report?,Human_Development_Index,263,unavailability of certain crucial data
+On what date was the 2010 Human Development Report released?,Human_Development_Index,264,"November 4, 2010"
+Which year was used for estimates in the 2010 report?,Human_Development_Index,264,2010
+What is the main reason that countries were excluded from the 2010 report?,Human_Development_Index,266,unavailability of certain crucial data
+Which Caribbean nation protested its exclusion from the 2010 report?,Human_Development_Index,266,Cuba
+What period is covered by the 2009 Human Development Report?,Human_Development_Index,267,period up to 2007
+What new category was added in the 2009 Human Development Report?,Human_Development_Index,267,very high human development
+"What was the index published on December 18, 2008 lacking?",Human_Development_Index,269,an accompanying Human Development Report
+Where was the 2007/2008 Human Development Report launched?,Human_Development_Index,270,"Brasília, Brazil"
+Which countries experienced a decrease in HDI?,Human_Development_Index,271,high income countries
+What are the two highest ranking Sub-Saharan countries?,Human_Development_Index,272,Gabon and South Africa
+"What number indicates the minimum score for a country to be considered a ""high development"" country?",Human_Development_Index,273,0.8
+"If a country's ranking does not change, which indicator will be present?",Human_Development_Index,274,Blue dash
+Has the HDI been criticized for being biased towards Western or towards Eastern models of development?,Human_Development_Index,276,Western
+How many economists were cited as pointing out data errors in the HDI?,Human_Development_Index,277,three
+In what year did the UNDP respond to the criticism of its report?,Human_Development_Index,277,2010
+What term is used to describe an individual in the early Church that introduced discord?,Heresy,291,divisive person
+What word is used when speaking of correct teachings in contrast to a false teacher?,Heresy,291,sound
+What religion were these Fathers of the Church?,Heresy,292,Orthodox Christianity
+Who gave more exposure to the term heresy when attempting to descredit opponents during the early centuries of Christianity?,Heresy,293,Irenaeus
+What term did Irenaeus use to describe the Christian community's ideologies?,Heresy,293,orthodox
+What concept did Irenaeus cite to help support his arguments?,Heresy,293,apostolic succession
+What did Constantine the Great and Licinius pass to introduce toleration of Christianity in the Roman Empire?,Heresy,294,Edict of Milan
+What was the high priest in the College of Pontiffs called?,Heresy,294,Pontifex Maximus
+What were the meetings called that were hosted by Constantine that helped enforce orthodoxy by Imperial authority?,Heresy,294,the ecumenical councils
+In what year was the first usage of the term heresy in a legal context?,Heresy,295,AD 380
+Who intitiated Christianity to be a state church of the Roman Empire?,Heresy,295,Thessalonica of Theodosius I
+Who was the first Christian individual to be sentenced to death by the church for heresy in Rome?,Heresy,296,Priscillian
+What book gives the definition of a heretic as anyone that does not follow the Catholic Church or the orthodox holy faith?,Heresy,297,The Codex Justinianus
+What groups are cited as being considered heretical by the Church before the 11th century?,Heresy,297,"Arianism, Pelagianism, Donatism, Marcionism and Montanism"
+What belief did Galileo have at the time that appeared to be extremely heretical to the church?,Heresy,299,the Sun lies motionless at the centre of the universe
+Who denounced Jewish People in many of his writings?,Heresy,300,Pope St. Gregory
+What area of Christianity commonly cited the first seven Ecumenical Councils in regards to heresy?,Heresy,301,Eastern Christianity
+What event in England during the 16th century had an outcome of many deaths for heresy?,Heresy,303,European Reformation
+What two notable figures are cited to have perished for refusing to give up the Church in England?,Heresy,303,Sir Thomas More and Cardinal John Fisher
+In what year was the last known person sentenced to death in England for heresy?,Heresy,303,1612
+During which years did the execution of the Boston martyrs take place?,Heresy,304,"1659, 1660, and 1661"
+What year did the deaths of heretics under Christianity come to an end?,Heresy,305,1826
+Which religion is cited as having problems with modern biblical criticism?,Heresy,306,Protestant
+What type of law is still in practice in which heresy results in execution?,Heresy,309,Sharia law
+What alignment within Orthodox Judaism view individuals as heretics that reject Maimonides's 13 principles of Jewish faith?,Heresy,310,right-wing groups
+What term is used for the act of using Church of Scientology techniques in contrast to what Hubbard envisioned?,Heresy,311,squirreling
+What must be welcomed in areas for the term do be perceived as complimentary?,Heresy,312,innovation
+What did Isaac Asimov consider heresy as?,Heresy,312,an abstraction
+What criticism did Robert T. Bakker share about the paleontologist community regarding the last fifty years?,Heresy,313,the field hasn't tested dinosaur orthodoxy severely enough
+The acceptance of which country into NATO prompted the formation of the Warsaw Pact?,Warsaw_Pact,316,West Germany
+Which nation was in effective control of both political and military functions of the Warsaw Pact?,Warsaw_Pact,319,the USSR
+The Soviet Union feared invasion from which potential enemy?,Warsaw_Pact,320,Western Europe
+When was reunification first proposed as an idea?,Warsaw_Pact,322,1952
+The omission of which nation from involvement in the proposed security system led to its NATO opposition?,Warsaw_Pact,323,the USA
+In which year was West Germany admitted to NATO?,Warsaw_Pact,327,1954
+What was the focus of both alliances' policies towards the other in lieu of direct fighting?,Warsaw_Pact,332,containment
+In which year did Poland declassify most of its Warsaw Pact-era archives?,Warsaw_Pact,337,2005
+In which year was the counteroffensive strategy first conceived?,Warsaw_Pact,337,1979
+What is materialism?,Materialism,339,a form of philosophical monism
+What are some examples of philosophical physicalism?,Materialism,340,"spacetime, physical energies and forces, dark matter"
+Was René Descartes an idealist or a materialist?,Materialism,343,materialist
+Around what time did materialism become part of Ancient Indian philosophy?,Materialism,346,600 BC
+What is the name of the novel written by Ibn Tufail?,Materialism,350,Hayy ibn Yaqdhan (Philosophus Autodidactus)
+Pierre Gassendi lived from what year to what year?,Materialism,351,1592-1665
+René Descartes lived from what year to what year?,Materialism,351,1596-1650
+Arthur Schopenhauer lived from what year to what year?,Materialism,352,1788-1860
+"Who wrote ""The Essence of Christianity""?",Materialism,353,Ludwig Feuerbach
+Relativity illustrates that what is interchangeable?,Materialism,356,matter and energy
+Ontological theory suggests that what is the main substance?,Materialism,356,energy
+Which model suggests that matter is 5% of the universe?,Materialism,357,Lambda-CDM model
+What type of matter does the model consider it to be?,Materialism,357,dark matter
+What is the name of the 1991 book by Paul Davies and John Gribbins?,Materialism,359,The Matter Myth
+Digital physicists consider what to be more important than matter?,Materialism,360,information
+Which religious group strongly opposed the idea of Neoplatonism?,Materialism,362,Christians
+What is the term 'pub' short for?,Pub,372,public house
+Who said that pubs are the heart of England?,Pub,372,Samuel Pepys
+What are the windows of 1990s and later pubs often made of?,Pub,374,clear glass
+What is a proper term for the licensee of the pub?,Pub,375,pub landlord
+What are pubs called by those who regularly visit there?,Pub,375,locals
+Teams for what sport can be found congregating at pubs?,Pub,375,darts
+What gaming tables can often be found in pubs?,Pub,375,pool or snooker
+What was a colloquial term for the off-sales counter?,Pub,376,the jug and bottle
+What color bush did an Anglo-Saxon woman raise to indicate that her ale was done brewing?,Pub,377,green
+What role did inns serve other than housing travelers?,Pub,379,community gathering places
+In what nation's pubs is food often served?,Pub,380,the UK
+"Along with Southwark and The Tabard, what is a notable London inn?",Pub,380,The George
+"In what country is ""The Welcome Inn"" frequently used as a name for pubs?",Pub,380,Scotland
+"What is the main service of an inn, now also attainable in motels, hotels and lodges?",Pub,381,lodging
+"Along with the Inns of Chancery, in what inns did British lawyers historically conduct business?",Pub,382,Inns of Court
+"Outside England, what other country does the legal system founded around the Inns of Court operate in?",Pub,382,Wales
+When were the Gin Act 1736 duties eliminated? ,Pub,385,1742
+What was another name for gin houses early in the 19th century?,Pub,386,"""Gin Palaces"""
+In what way did small beer differ from regular beer?,Pub,387,low alcohol content
+What was the intention behind the passage of the Beer Act of 1830?,Pub,387,reducing public drunkenness
+What is the approximate modern value of two guineas in 1830?,Pub,388,£168
+What did the Beer Act allow a householder to sell from his home?,Pub,388,beer or cider
+On what day were beer houses closed?,Pub,388,Sundays
+"Along with barrels, what was beer typically dispensed from?",Pub,388,jugs
+What was forbidden from being sold in beer houses?,Pub,388,spirits and fortified wines
+In what year were additional licensing laws introduced for beer houses?,Pub,389,1869
+What party received income from the sale of public drinking house licenses?,Pub,392,the crown
+In what century were the operating hours of drinking establishments first limited?,Pub,393,19th
+At what locations were public house licenses granted?,Pub,394,special Licensing Sessions courts
+Retirees from what two professions often sought licenses for pubs?,Pub,394,ex-servicemen or ex-policemen
+What were licenses called that allowed spirits to be served at temporary premises?,Pub,394,Occasional Licences
+"Along with a public house's address, licensee, and the licensee's misdemeanors, what information was kept in licensing records?",Pub,395,owner
+What law further restricted public houses?,Pub,396,the Defence of the Realm Act
+In what month and year was the Defence of the Realm Act passed?,Pub,396,August 1914
+What is an example of a county where provinces were closed for violating the Defence of the Realm Act?,Pub,396,Pembrokeshire
+"Due to the traditional closing hours, when was there often violence outside of pubs?",Pub,399,11.30 pm
+"A law of what year prompted the existence of the ""lock-in""?",Pub,400,1915
+What action by a pub owner can result in his prosecution?,Pub,400,allowing smoking
+When did Wales outlaw smoking in public?,Pub,401,April 2007
+What company took over Scottish & Newcastle's pubs?,Pub,401,Carlsberg and Heineken
+What chain of pubs reported favorable profits in June 2009?,Pub,401,Wetherspoon
+What street in Islington was named for a pub run by Mr Ball?,Pub,402,Balls Pond Road
+What pub was the home of the Grecian Saloon?,Pub,402,The Eagle
+In what century did saloons become established?,Pub,402,18th
+What is another name for the lounge bar?,Pub,404,saloon
+What was a common way of removing the division between the saloon and bar?,Pub,405,removal of the dividing wall or partition
+What is another name for the smoke room?,Pub,406,snug
+What were the windows in the snug made out of?,Pub,406,frosted glass
+How many pubs were part of the CAMRA survey?,Pub,407,"50,000"
+Who pioneered the circular bar?,Pub,409,Isambard Kingdom Brunel
+At what establishment was the circular bar introduced?,Pub,409,Swindon station pub
+What was the death year of John Lofting?,Pub,410,1742
+When was John Lofting born?,Pub,410,1659
+In what newspaper did John Lofting mention his beer pump?,Pub,411,London Gazette
+How many barrels did Lofting promise his beer pump would deliver hourly?,Pub,412,20 to 30
+What is a common name for a beer pump powered by hand?,Pub,413,handpump
+What was the name for a pub that could sell beer from more than one brewery?,Pub,414,a Free house
+What was the name of the private individual who rented out a pub owned by a brewery?,Pub,414,landlord
+What London breweries each own many pubs?,Pub,415,Young's and Fuller's
+In what year were the Beer Orders passed?,Pub,415,1989
+"Along with Punch Taverns and Weatherspoons, what was an organization formed as a result of the Beer Orders?",Pub,416,O'Neill's
+"Along with breweries, what type of company may run a pub chain?",Pub,416,PubCo
+In what country was Punch Taverns established?,Pub,416,the UK
+What is another name for a rural public house?,Pub,419,country pub
+"What is a blanket term for pubs that, for example, cater to sports fans?",Pub,421,theme pubs
+What sort of theme pub would be likely to feature strippers?,Pub,421,strip pubs
+In what sort of theme pub could one find visitors singing with musical accompaniment?,Pub,421,karaoke bars
+Which monarch required landlords to post a sign if they wanted to sell ale?,Pub,422,Richard II
+"If an ale-seller refused to post a sign, what punishment would he receive?",Pub,422,forfeit his ale
+In what historical period was a large portion of the population illiterate?,Pub,423,the Middle Ages
+From where did pubs without written names derive their names?,Pub,423,the illustration on the pub's sign
+Inscriptions from what language were sometimes present on pub signs?,Pub,424,Latin
+"Along with The Star and The Sun, what was a typical symbol used on a pub sign?",Pub,424,The Cross
+What county is home to The Crow and Gate?,Pub,425,East Sussex
+Members of what family were sometimes used as pub names?,Pub,425,royal
+What is an example of a memorable name for a pub chain?,Pub,427,Slug and Lettuce
+What sort of theme is thought memorable for modern pub names?,Pub,427,comic
+What is the purpose of a pub name?,Pub,427,to identify and differentiate each pub
+After whom was the Marquis of Granby pub named?,Pub,429,"John Manners, Marquess of Granby"
+What was the military rank of the 3rd Duke of Rutland?,Pub,429,general
+What were pubs licensed in 1780 named?,Pub,429,the Royal George
+"The pub ""The Bag o'Nails"" was a corruption of what word?",Pub,430,Bacchanals
+"Along with dominoes, on what pub game can you legally bet in the United Kingdom?",Pub,431,cribbage
+What is the term for pub-based football that is often played on Sundays?,Pub,433,Sunday League Football
+What sport is played on a pub's bowling green?,Pub,433,Bowling
+What genre of music was influenced by pub rock?,Pub,434,Punk music
+"In London, what food vendors could often be found near pubs?",Pub,435,mobile shellfish stalls
+What seafood can often be purchased in jars at pubs?,Pub,435,pickled cockles and mussels
+What are foods like fish and chips and chicken wings called when they're served at a pub?,Pub,437,Pub grub
+What two words is 'gastropub' a portanteau of?,Pub,438,pub and gastronomy
+In what year was the term gastropub invented?,Pub,438,1991
+How many pubs does the National Trust own?,Pub,439,thirty-six
+In what city is the George Inn located?,Pub,439,London
+What city is home to The Crown Liquor Saloon?,Pub,439,Belfast
+What part of the United Kingdom is Belfast located in?,Pub,439,Northern Ireland
+What pub in England is the highest above sea level?,Pub,440,the Tan Hill Inn
+In what settlement is the pub known as The Old Forge located?,Pub,440,Inverie
+In what century was the building occupied by Ye Olde Fighting Cocks built?,Pub,441,11th
+Where is Ye Olde Trip to Jerusalem located?,Pub,441,Nottingham
+When was a pub documented as existing on the current site of the Nags Head?,Pub,441,1086
+When was ale first served at the site of The Old Ferryboat Inn?,Pub,442,560
+When does the building housing Ye Olde Salutation Inn date back to?,Pub,443,1240
+What town is the Q Inn located in?,Pub,444,Stalybridge
+What pub has the shortest name in the United Kingdom?,Pub,444,the Q Inn
+What is the pub with the longest name in the UK?,Pub,444,The Old 13th Cheshire Rifleman Corps Inn
+What county is Stalybridge in?,Pub,444,Cheshire
+Competition from what new form of establishment is sometimes blamed for the decline of pubs?,Pub,445,gastro-pubs
+In what year did Parliament inquire into the frequency of pub closures?,Pub,446,2015
+In what county was the Swan Inn located?,Pub,447,Buckinghamshire
+"What pub was associated with Samuel Johnson, perhaps erroneously?",Pub,448,Ye Olde Cheshire Cheese
+"Along with the Prospect of Whitby, what pub was Samuel Pepys associated with?",Pub,448,the Cock Tavern
+What is the street address of The Fitzroy Tavern?,Pub,449,16 Charlotte Street
+What real-life pub provided the model for Orwell's The Moon Under Water?,Pub,449,The Canonbury Tavern
+Where is the Red Lion located?,Pub,450,Parliament Square
+In what district of London was the Punch Bowl located?,Pub,450,Mayfair
+What pub was visited by Freddie Mercury?,Pub,450,The Coleherne
+Outside what pub was David Blakely shot?,Pub,451,The Magdala
+In what year did Joseph Stalin visit London?,Pub,451,1903
+At what pub did Thomas Paine write The Rights of Man?,Pub,452,The Angel
+In what district of London is The Angel located?,Pub,452,Islington
+"Prior to becoming a pub, what did the Angel serve as?",Pub,452,a coaching inn
+What channel is EastEnders broadcast on?,Pub,454,BBC One
+What body often runs pubs on the campuses of Canadian universities?,Pub,457,the student's union
+"In what decade could one find an ""English looking"" pub trend in Canada?",Pub,457,1990s
+What do people typically call a web browser?,Web_browser,458,browser
+What platform is a browser used on?,Web_browser,458,World Wide Web
+"In addition to accessing the Internet, browsers can also access info that is put there by web servers in what?",Web_browser,459,private networks
+When was the first browser created?,Web_browser,460,1990
+Who invented the first browser?,Web_browser,460,Sir Tim Berners-Lee
+What was Berners-Lee a director of?,Web_browser,460,the World Wide Web Consortium
+"When Andreessen left the company he worked for, what new company did he start?",Web_browser,461,Netscape
+What browser did Andreessen release in 1994?,Web_browser,461,Netscape Navigator
+The release of Internet Explorer started the first what?,Web_browser,462,browser war
+Opera is also available on which video game console?,Web_browser,463,Nintendo's Wii
+Internet Explorer was partially funded in what two ways?,Web_browser,467,sales of Windows to computer manufacturers and direct to users
+What other OS could use Internet Explorer?,Web_browser,467,Mac
+When did the European Commission say they would investigate the bundling?,Web_browser,468,January 2009
+The Commission felt that bundling the browser with Windows computers harmed what?,Web_browser,468,competition between web browsers
+What does URL stand for?,Web_browser,472,Uniform Resource Locator
+What is the determining factor in how a URL will be interpreted?,Web_browser,472,The prefix of the URL
+What does IRC stand for?,Web_browser,475,Internet Relay Chat
+What does not allow windows to pop up without consent?,Web_browser,476,pop-up blockers
+A computer program that continues the functionality of a browser is called what?,Web_browser,477,browser extension
+A list of websites a user can click to get back to easy have been what by the user?,Web_browser,478,bookmarked
+"What are ""bookmarks"" called in Internet Explorer?",Web_browser,478,Favorites
+The top browsers have a built-in what?,Web_browser,478,feed aggregator
+HTTP Secure is supported by what?,Web_browser,479,Most browsers
+Non-standard dialects led to what?,Web_browser,480,problems with interoperability
+"A user interface, UI backend, layout engine and other things are part of what?",Web_browser,481,Web browsers
+What is Catalan called in Valencia?,Catalan_language,482,Valencian
+Where is Catalan the only official language?,Catalan_language,482,Andorra
+"Besides being the official language and language of education, what other group uses Catalan?",Catalan_language,485,mass media
+What are Catalan and Valencian assumed to be?,Catalan_language,486,the same language
+Where is Catalonia located?,Catalan_language,487,Iberian Peninsula
+"Besides vocabulary and grammar, what other diffinence is there from other similar area languages?",Catalan_language,487,pronunciation
+What numbers does Catalan have?,Catalan_language,488,"singular, plural"
+What style of grammar does Catalan have?,Catalan_language,488,inflectional
+What is Catalan the derivitive of?,Catalan_language,489,Catalonia
+What is a Catalan person called in the 15th century?,Catalan_language,490,Catellain
+What language is the source of the term Catellain?,Catalan_language,490,French
+Since what year has this term been used?,Catalan_language,490,1652
+"Besides the Pyrenees, what area had Catalan covered by the 9th century?",Catalan_language,492,Hispania Tarraconensis
+When did the Catalan rulers take over Valencia and the Balearic Islands?,Catalan_language,494,13th century
+Where did the Catalan language reach in the 15th century?,Catalan_language,494,Murcia
+When did Murcia become Spanish speaking?,Catalan_language,494,15th century
+Where was the center of the Crown of Aragon?,Catalan_language,495,city of Valencia
+What was the official language of Sicily until the 15th century?,Catalan_language,495,Catalan
+Who called Catalan one of the great languages?,Catalan_language,495,Costa Carreras
+Who wrote Tirant lo Blanc?,Catalan_language,496,Martorell
+What other writer showed a transition to the Renaissance? ,Catalan_language,496,Metge
+Why did Spain give part of Catalonia to France?,Catalan_language,498,Treaty of the Pyrenees
+What language began to influence Catalan?,Catalan_language,498,French
+What are French non standard languages called?,Catalan_language,499,patois
+What is the official language of France?,Catalan_language,501,French
+Who recognized Catalan as a departmental language?,Catalan_language,501,General Council of the Pyrénées-Orientales
+What declined in the 16th and 17th centuries?,Catalan_language,502,Catalan
+When was the war of Spanish Succession?,Catalan_language,502,1714
+What is Renaixenca?,Catalan_language,503,Catalan literary revival
+"In what century did Vedaguer, Oller, and Guimera wrte?",Catalan_language,503,early 20th
+Where is the teaching of Catalan mandatory?,Catalan_language,504,in all schools
+What is an Andorran school policy?,Catalan_language,505,Catalan medium education
+What is the only language of Andorra?,Catalan_language,505,Catalan
+How old are most of the native language speakers in northern Catalonia?,Catalan_language,506,60 or older
+What percentage of primary students study Catalan as a foreign language?,Catalan_language,506,30%
+What do 15% of secondary school students study as a foreign language?,Catalan_language,506,Catalan
+What is Catalan being supplanted by in Alicante?,Catalan_language,507,Spanish
+What is Spanish replacing in Alicante province?,Catalan_language,507,Catalan
+Who disagrees with putting Catalan in the Occitano-Romance branch?,Catalan_language,508,linguists
+Why does Catalan share many traits with other Romance languages?,Catalan_language,509,closely related
+What are examples of Ibero-Romance languages?,Catalan_language,510,Spanish and Portuguese
+What is the percent relationship of Catalan to Spanish?,Catalan_language,511,80%
+What language branch did Catalan share a history with?,Catalan_language,513,Occitan
+What has different results in Spanish and Catalan?,Catalan_language,514,Germanic superstrate
+What element in Spanish is more prominent than in Catalan?,Catalan_language,515,Arabic element
+What language loanwords are found in both Spanish and Catalan?,Catalan_language,515,Arabic loanwords
+In which language is the Arabic element stand out more?,Catalan_language,515,Spanish
+Where does the Catalan word alfabia come from?,Catalan_language,515,of Arabic origin
+What is that determination based on?,Catalan_language,517,cultural affinity and common heritage
+What status does Catalan Countries have?,Catalan_language,517,no official status
+What is the interpretation of the term?,Catalan_language,517,Various interpretations
+What is the term for Catalan Countries?,Catalan_language,517,Països Catalans
+How is Catalan different from other Romance languages?,Catalan_language,518,many monosyllabic words
+What kind of final devoicing does the language have?,Catalan_language,518,obstruent
+Where does Catalan get its vowel system?,Catalan_language,520,Vulgar Latin
+What is the exception to this common characteristic?,Catalan_language,520,Spanish
+What differs in vowel reduction?,Catalan_language,520,Dialects
+How many  reduced unstressed are vowels are there in Central Catalan?,Catalan_language,521,three
+Where do you find dialectic vowel reductions?,Catalan_language,521,section pronunciation
+What outside affects does this study include?,Catalan_language,522,other languages in contact
+In comparison to what are the dialects uniform?,Catalan_language,523,other Romance languages
+What is the major difference between the two blocks?,Catalan_language,524,treatment of unstressed a and e
+How are a and e in western dialects?,Catalan_language,524,distinct
+To what division does Central Catalan belong?,Catalan_language,525,Eastern block
+What other divisions can be made of dialects?,Catalan_language,525,subdialects
+Where are the most speakers found?,Catalan_language,526,Central Catalan
+Where is this system common?,Catalan_language,520,Western Romance
+In what language do unstressed vowels reduce to four?,Catalan_language,528,Majorcan
+What reduction pattern do some vowels follow?,Catalan_language,528,Eastern Catalan
+Where did this pattern come from?,Catalan_language,529,Proto-Romance
+What do other Western dialects sometimes  offer?,Catalan_language,529,further reduction
+What vowel does Central have a larger occurrence of?,Catalan_language,530,/e/
+"What is the result of /e/ being the same in Central,  Western and Belearic?",Catalan_language,530,higher incidence
+What form is innovative?,Catalan_language,533,Central Catalan
+What are the two blocks of Catalan?,Catalan_language,533,Eastern and Western
+What dialect employs many archaic words?,Catalan_language,537,Alguerese
+What type of pronouns has Alguerese adapted?,Catalan_language,537,weak pronouns
+Where is the Catalan speaking part of Aragon?,Catalan_language,538,La Franja
+Where is the language to be regulated located?,Catalan_language,538,La Franja
+How is Valencian classified?,Catalan_language,539,Western dialect
+What kind of Valencan is spoken in Western Catalonia?,Catalan_language,539,northwestern varieties
+What forms are mutually intelligible?,Catalan_language,539,Catalan and Valencian
+Who says that there is linguistic unity between Catalan and Valencian?,Catalan_language,540,Valencian Academy of Language
+Who uses this standard?,Catalan_language,541,everyone who writes
+Who is exempt from the standard and uses their own?,Catalan_language,541,Royal Academy of Valencian Culture
+What language has a lexical unity?,Catalan_language,533,Catalan
+Where does Catalan get a lot of its learned words?,Catalan_language,545,Greek and Latin
+What is common in Romance languages?,Catalan_language,546,agglutination
+What languages are  similar to Catalan in numbers of  couplets?,Catalan_language,548,Italian and Spanish
+What is ab example of a gender marked adjective?,Catalan_language,549,bullent/bullenta
+What is the usual way to make a plural?,Catalan_language,550,suffix -s
+To what are these morphological changes similar?,Catalan_language,550,gender inflection
+What does the large number of omissions  make the determinatives?,Catalan_language,551,complex
+What is much like the neighboring languages?,Catalan_language,551,inflection of determinatives
+What language does Catalan have more contractions than?,Catalan_language,551,Spanish
+What has Central Catalan mostly abandoned?,Catalan_language,552,unstressed possessives
+What other language shares this type of construction?,Catalan_language,552,Italian
+What is this distinction similar to?,Catalan_language,554,all other Romance languages
+What do you not need to use in Catalan?,Catalan_language,555,passive voice
+What plays a secondary part in Catalan?,Catalan_language,556,morphological alternations
+What is the Catalan verbal system common to?,Catalan_language,557,all Western Romance
+How are Catalan verbs grouped?,Catalan_language,558,into three conjugations
+Which conjugation has less than 100 verbs?,Catalan_language,558,second
+What is Spain thinking of doing to the two surnames?,Catalan_language,559,joining both surnames
+What is the last step in paper production?,Paper,560,drying
+What country is leading in production of paper?,Paper,561,China
+Which court eunuch was associated with the papermaking process?,Paper,561,Cai Lun
+What material did paper replace upon its invention?,Paper,562,silk
+In which century did the process become much cheaper than before?,Paper,563,19th
+Which Canadian inventor helped F.G. Keller to develop their own process?,Paper,563,Charles Fenerty
+What Latin word is paper derived from?,Paper,564,Papyrus
+What language is papyrus derived from?,Paper,564,Greek
+What is separated from the cellulose fibres?,Paper,565,lignin
+What type of paper is paper made from chemical pulps known as?,Paper,565,wood-free
+What percentage of cotton is cellulose?,Paper,565,90%
+How many chemical pulping processes are there?,Paper,566,three
+What is another process used to pulp straws with high silicate content?,Paper,566,Soda pulping
+"Besides the thermomechanical process, what is a process used in pulping?",Paper,567,groundwood pulp
+Recylced papers can be made with what new type of pulp?,Paper,568,virgin
+What type of clay improves the characteristics of the pulps used in papermaking?,Paper,569,china clay
+What is used to collect water when hand-making paper?,Paper,570,blotter sheet
+"Besides calcium, coated paper has a thin layer of what?",Paper,572,china clay
+What papers give the best optical density?,Paper,572,Gloss
+"If the paper is not to be used in the web printing process, what is done?",Paper,573,cut into sheets
+What leaves a pattern on the paper that has a consistent density width and lengthwise?,Paper,574,wire mesh
+What type of lines does wove paper not exhibit?,Paper,575,Laidlines
+What runs perpendicular to the laidlines?,Paper,575,chainlines
+What tool is often used in measuring the thickness of paper?,Paper,576,caliper
+Paper rated at over 110lb is considered what type of stock?,Paper,577,card
+Commercial paper is commonly defined by what?,Paper,579,length and width
+Most commercial paper in North America is cut in what manner?,Paper,579,standard paper sizes
+Standard paper sizes are usually described with what terms?,Paper,579,length and width
+What country first adopted the ISO 216 standard?,Paper,580,Germany
+What acidic salts were commonly found in the early types of paper produced?,Paper,582,Alum
+A book is likely made with paper that has low amounts of what component of wood?,Paper,583,lignin
+What does lignin react to to produce the yellowing you see in newspapers?,Paper,583,light and oxygen
+"Besides formic, acetic, and lactic acid, what type of acid does cellulose produce?",Paper,584,oxalic
+What percentage of wood pulp comes from old-growth trees?,Paper,586,10%
+What type of adult contemporary music was popular in the 1960s?,Adult_contemporary_music,592,vocal
+What type of song is frequently seen in the adult contemporary genre?,Adult_contemporary_music,594,romantic sentimental ballads
+What general type of instruments tend to be used in adult contemporary?,Adult_contemporary_music,594,acoustic
+What electric instrument is often seen in adult contemporary?,Adult_contemporary_music,594,bass guitar
+What is Christian AC a subgenre of?,Adult_contemporary_music,596,contemporary Christian music
+From what decade of easy listening radio does adult contemporary trace its heritage?,Adult_contemporary_music,597,1960s
+"Along with Frank Sinatra, Doris Day, Johnny Mathis, Nat King Cole, and Perry Como, who was a prominent early adult contemporary radio artist?",Adult_contemporary_music,598,Connie Francis
+What songs from the 1940s and 1950s would adult contemporary stations play?,Adult_contemporary_music,598,big band-era recordings
+"Along with Roger Miller and Barbra Streisand, who was a successful Easy Listening artist in this era?",Adult_contemporary_music,599,Bobby Vinton
+During what decade did rock and roll music first rise to popularity?,Adult_contemporary_music,600,1950s
+What was another term for easy listening stations?,Adult_contemporary_music,601,beautiful music
+What types of tracks from popular artists did adult contemporary radio play?,Adult_contemporary_music,601,hit singles and album cuts
+As of what year was hard rock a mainstream type of music?,Adult_contemporary_music,602,1965
+What artist released the best selling album of the 1970s?,Adult_contemporary_music,604,Fleetwood Mac
+In what year was the best selling album of the 1970s released?,Adult_contemporary_music,604,1977
+In what decade did genres begin to diverge on the basis of demographic groups?,Adult_contemporary_music,605,1970s
+"Along with rock and roll, what genre of music was sometimes featured on Easy Listening radio?",Adult_contemporary_music,607,R&B
+What genre of music was surprisingly successful on adult contemporary radio?,Adult_contemporary_music,607,disco
+"What type of musicians were artists such as Diana Ross, James Taylor, Carly Simon, Carole King and Janis Ian?",Adult_contemporary_music,607,singer-songwriters
+"Along with rap/hip-hop, what genre of music were aging listeners not as interested in?",Adult_contemporary_music,608,heavy metal
+"Along with Richard Marx, Bonnie Tyler, George Michael, Phil Collins, and Laura Branigan, what artist was also frequently played on Contemporary Hit Radio stations?",Adult_contemporary_music,609,Michael Jackson
+What television station was responsible for the increasing success of Contemporary Hit Radio artists on the AC charts?,Adult_contemporary_music,609,MTV
+"Who did Allmusic refer to as ""one of the most successful pop and adult contemporary singers of the '80s and beyond""?",Adult_contemporary_music,609,Phil Collins
+"What genres, featured on the CHR radio format, were rarely found on adult contemporary radio?",Adult_contemporary_music,610,hip-hop and harder rock music
+During what decade did hip-hop begin to be featured on the radio?,Adult_contemporary_music,610,1980s
+What was the longest that a song spent at #1 on the adult contemporary charts in the 1980s?,Adult_contemporary_music,611,six weeks
+"Along with ""Don't Know Much,"" what single won a Grammy?",Adult_contemporary_music,612,"""All My Life"""
+What happened to urban R&B in the early 1990s?,Adult_contemporary_music,613,softening
+"Along with All-4-One, Boyz II Men, Rob Thomas, Christina Aguilera and Backstreet Boys, what 90s artists were notable in the pop/R&B genre?",Adult_contemporary_music,614,Savage Garden
+"What genre of music did Lynda Thomas, Ricky Martin, Selena, Marc Anthony, Enrique Iglesias and Luis Miguel make?",Adult_contemporary_music,614,Latin pop
+"Who invented the term ""urban adult contemporary format""?",Adult_contemporary_music,616,Barry Mayo
+What style of singing is absent from R&B played on urban adult contemporary format stations?,Adult_contemporary_music,616,rapping
+"What radio station format plays soft AC, hot AC, disco and dance?",Adult_contemporary_music,617,rhythmic AC
+What radio station format was sometimes regarded as a type of adult contemporary?,Adult_contemporary_music,618,smooth jazz
+What type of music was predominantly played on smooth jazz stations?,Adult_contemporary_music,618,instrumental
+What is Adrian Moreira's job title?,Adult_contemporary_music,619,senior vice president for adult music
+Why is new rock not suitable for mainstream radio?,Adult_contemporary_music,620,too alternative
+"What artist performed the song ""Forget You""?",Adult_contemporary_music,621,Cee Lo Green
+"What version of P!nk's ""Perfect"" appeared on adult contemporary radio in 2011?",Adult_contemporary_music,621,edited
+What sort of sound does the music of Susan Boyle have?,Adult_contemporary_music,622,ballad heavy
+What genre of music has soft AC found common ground with? ,Adult_contemporary_music,622,country
+What genre of music are bands like Feist and Wilco?,Adult_contemporary_music,623,indie rock
+"Along with Mumford & Sons, Of Monsters & Men, Ed Sheeran and The Lumineers, what indie artist has had adult contemporary success?",Adult_contemporary_music,623,Imagine Dragons
+"Generally speaking, what is the earliest decade represented by the ""oldies"" on soft AC stations?",Adult_contemporary_music,625,1960s
+During what period did soft AC stations attempt to reinvent themselves?,Adult_contemporary_music,625,the late 2000s/early 2010s
+"What processed meat, featured in WEEI-FM's ad slogan, rhymes with Joni?",Adult_contemporary_music,626,baloney
+What occupation is stereotypical held by soft adult contemporary listeners?,Adult_contemporary_music,627,office workers
+What radio station formats faced demographic pressures in the 1960s and 70s?,Adult_contemporary_music,629,jazz and big band
+What radio station format is facing demographic pressures in the present day?,Adult_contemporary_music,629,oldies
+Certain soft AC stations have found a niche on the radio by doing what?,Adult_contemporary_music,629,incorporating more oldies
+What genre of music is played by Westlife?,Adult_contemporary_music,632,power pops
+What is the target age range of Hot AC stations?,Adult_contemporary_music,632,18-54
+What station did Mike Marino work for in 1997?,Adult_contemporary_music,633,KMXB
+What age demographic is modern rock radio focused on?,Adult_contemporary_music,633,18-34
+What is the sex of the listeners modern rock radio is geared towards?,Adult_contemporary_music,633,men
+"Unlike modern rock radio, what sex is adult contemporary radio said to appeal to?",Adult_contemporary_music,633,women
+What is the ethnicity of artists commonly played on urban adult contemporary radio?,Adult_contemporary_music,634,black
+What is the most recent decade music from which music can be heard on a rhythmic oldies station?,Adult_contemporary_music,636,1990s
+When might you hear smooth jazz on a soft AC station?,Adult_contemporary_music,638,the weekends
+What was the smooth jazz format renamed?,Adult_contemporary_music,638,to lure younger listeners
+"Along with smooth soul and quiet storm, what genre influenced adult contemporary R&B?",Adult_contemporary_music,639,Philly soul
+During what decade was smooth soul popular?,Adult_contemporary_music,639,1970s
+"Along with drum machines and synthesizers, what electronic instruments are often found in modern R&B-based music?",Adult_contemporary_music,639,sequencers
+Of what genre was the musician Keith Sweat?,Adult_contemporary_music,640,crossover R&B
+During what decade were musicians like Al Jarreau and Luther Vandross notably successful?,Adult_contemporary_music,640,1980s
+What type of songs was Leona Lewis known for?,Adult_contemporary_music,640,ballads
+"Along with mainstream AC, what format has also featured Christian AC artists on a crossover basis?",Adult_contemporary_music,641,hot AC
+What AC format is especially known for playing Christmas music in the Christmas season?,Adult_contemporary_music,642,soft AC
+When is the later of the two times that Christmas music on adult contemporary stations usually ends?,Adult_contemporary_music,643,New Year's Day
+When is the earliest an AC station will switch to a Christmas format?,Adult_contemporary_music,643,the beginning of November

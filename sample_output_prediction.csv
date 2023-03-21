@@ -1,0 +1,222 @@
+question_id,paragraph_id,answers
+1,37,Apple faced two lawsuits claiming patent infringement by the iPod line and its associated technologies: Advanced Audio Devices
+2,1,"October 23, 2001"
+3,5,5
+4,47,entertainment
+5,17,proprietary
+6,37,Apple
+7,25,pause
+8,2,2 GB
+9,2,2 GB
+10,2,iPod Shuffle to 128 GB for the iPod Touch
+11,2,iPod Touch
+12,2,2 GB
+13,2,128 GB
+14,3,iTunes
+15,3,Apple Macintosh and Microsoft Windows
+16,3,iTunes
+17,-1,
+18,45,2009
+19,5,A8
+20,5,sixth
+21,1,2015
+22,5,5
+23,1,2001
+24,6,Jon Rubinstein
+25,8,30GB
+26,1,2001
+27,6,5 GB
+28,42,Mac computers
+29,6,Jon Rubinstein
+30,7,Chicago
+31,-1,
+32,7,Steve Jobs
+33,11,iTunes
+34,8,U2
+35,8,black
+36,8,video
+37,8,U2
+38,8,black
+39,9,Kane Kramer
+40,9,UK
+41,9,1981
+42,9,IXI
+43,33,"Namco, Square Enix, Electronic Arts, Sega, and Hudson Soft"
+44,10,copywriter
+45,10,2001: A Space Odyssey
+46,10,Joseph N. Grasso
+47,10,2005
+48,10,2001: A Space Odyssey
+49,10,Vinnie Chieco
+50,11,12.2
+51,11,12.2
+52,12,bass
+53,12,DC-blocking capacitors
+54,13,clipping
+55,13,2006
+56,13,"R&B, Rock, Acoustic, and Bass Booster"
+57,54,scratched easily
+58,14,EU
+59,-1,
+60,14,100 dB
+61,35,iTunes
+62,15,FireWire
+63,16,third
+64,16,30-pin dock connector
+65,16,fifth
+66,16,fourth
+67,16,third
+68,16,iPod Shuffle
+69,16,FireWire
+70,16,USB
+71,19,"Griffin Technology, Belkin, JBL, Bose, Monster Cable, and SendStation"
+72,17,dock connector
+73,17,paying royalties
+74,18,"iPhone 5, the fifth generation iPod Touch"
+75,18,8
+76,18,"8-pin dock connector, named Lightning, on September 12, 2012 with their announcement of the iPhone 5, the fifth generation iPod Touch, and the seventh generation iPod Nano, which all feature it. The new connector replaces the older 30-pin dock connector used by older iPods, iPhones, and iPads. Apple Lightning cables have pins on both sides"
+77,18,Lightning
+78,18,fifth
+79,19,Nike+iPod pedometer
+80,17,accessories
+81,19,Nike
+82,20,BMW
+83,6,2001
+84,21,"JVC, Pioneer, Kenwood, Alpine, Sony, and Harman Kardon"
+85,20,iPod
+86,21,FM transmitters
+87,21,audio input jacks
+88,-1,
+89,22,"United, Continental, Delta, and Emirates"
+90,22,2007
+91,23,Apple Lossless
+92,-1,
+93,23,WMA
+94,28,Helix DRM
+95,23,"MP3, AAC/M4A, Protected AAC, AIFF, WAV, Audible audiobook, and Apple Lossless"
+96,23,iPod photo
+97,-1,
+98,24,library
+99,24,its host computer
+100,25,five
+101,25,click wheel
+102,25,iPhone
+103,25,five
+104,25,iPod Shuffle
+105,30,iPhone or an iPod Touch
+106,26,"October 12, 2005"
+107,26,"September 12, 2006"
+108,26,2003
+109,26,online media
+110,27,Up to five
+111,23,WMA
+112,27,"January 6, 2009"
+113,27,AAC
+114,27,iTunes Plus
+115,28,iPods
+116,28,DRM
+117,29,Universal Music Group
+118,29,2007
+119,30,"September 5, 2007"
+120,30,2007
+121,1,ultra-compact iPod Shuffle
+122,31,"Parachute, Solitaire, and Music Quiz"
+123,31,easter egg
+124,31,Brick
+125,31,"Parachute, Solitaire, and Music Quiz"
+126,32,2006
+127,32,iTunes 7
+128,32,6th and 5th generation
+129,23,third
+130,32,2006
+131,32,fifth
+132,33,video game handheld console market
+133,33,GamePro and EGM
+134,-1,
+135,34,iOS
+136,34,iPod Touch and iPhone
+137,34,Apple has not
+138,35,third-party
+139,35,iTunes
+140,36,hidden
+141,36,manually
+142,37,2005
+143,37,patent infringement
+144,37,"Sony, RealNetworks, Napster, and Musicmatch"
+145,37,Ho Keung Tse
+146,37,Advanced Audio Devices
+147,37,FairPlay
+148,38,rotational user inputs
+149,38,August 2005
+150,38,Creative Technology
+151,38,Zen Patent
+152,38,rotational user inputs
+153,39,"August 24, 2006"
+154,39,US$100 million
+155,17,iPod Hi-Fi
+156,40,over 90%
+157,6,2004
+158,40,72.7%
+159,40,Bloomberg Online
+160,40,90%
+161,40,70%
+162,41,"January 8, 2004"
+163,41,Wal-Mart
+164,41,5%
+165,42,one-hundred million
+166,42,32%
+167,43,$6.22 billion
+168,43,26%
+169,-1,
+170,43,$15.4 billion
+171,44,$1.58 billion
+172,44,21%
+173,43,26%
+174,45,2009
+175,44,42%
+176,45,220 million
+177,46,fourth
+178,-1,
+179,46,WMA
+180,46,Sony Ericsson and Nokia
+181,48,education
+182,47,communication and training
+183,47,Royal and Western Infirmaries
+184,46,PC World
+185,48,Duke
+186,48,Entertainment Weekly
+187,24,installation
+188,49,music industry
+189,49,digital music storage
+190,49,Album Era
+191,-1,
+192,50,MP3.com
+193,50,2003
+194,50,8
+195,51,third-party vendors
+196,51,refurbished replacement iPod
+197,51,lithium-ion
+198,38,rotational user inputs
+199,52,iPod Nano
+200,51,almost equivalent to a brand new one
+201,52,soldering tools
+202,53,first
+203,52,2003
+204,52,US$99
+205,52,iPod Nano
+206,53,Apple product replacement program
+207,54,13.7%
+208,53,between September 2005 and December 2006
+209,53,battery
+210,58,salaries
+211,55,35%
+212,55,independent auditors
+213,56,Electronic Industry Code of Conduct Implementation Group
+214,56,Foxconn
+215,57,China
+216,56,Foxconn
+217,56,Verité
+218,56,2006
+219,57,2010
+220,57,2010
+221,-1,
